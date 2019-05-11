@@ -1,2 +1,4 @@
 # HelloWorld
-MyFristRepository
+My Frist GitHub Repository
+
+Hello GitHub
